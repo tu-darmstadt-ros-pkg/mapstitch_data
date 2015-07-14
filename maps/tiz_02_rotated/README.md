@@ -1,1 +1,1 @@
-Taken with hector2
+Taken with hector2, rotated with Gimp
